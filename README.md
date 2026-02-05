@@ -1,3 +1,3 @@
-# CS-315
-Code for CS-315 Robotics
-Aidan Chapdelaine
+# CS-290
+Code for CS-290 Robotics
+<br>Aidan Chapdelaine
